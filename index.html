@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="./styles/index.css" />
+    <script src="./scripts/script.js"></script>
+    <title>Atravessando Helheim</title>
+  </head>
+
+  <body>
+    <div id="game-area">
+      <div id="game-menu">
+        <h1>Atravessando Helheim!</h1>
+        <button id="menu-button" onclick="playGame()">JOGAR</button>
+      </div>
+      <div id="char-selector">
+        <div>
+          <h2>Selecione um Personagem</h2>
+        </div>
+        <div class="c-s-box">
+          <div id="bjorn" class="box" onclick="playBjorn()">
+            <img src="./assets/bjorn (1).jpg" />
+            <h3>BJÖRN</h3>
+            <p>
+              O Jarl do vilarejo de Handum era sábio e forte, em batalha acabou
+              sendo ferido, fugindo para a floresta, não resistiu e morreu de
+              maneira indigna para ir para Valhalla. Agora ele precisa se
+              redimir dos seus erros do passado, para que Hel possa lhe dar
+              outra chance.
+            </p>
+          </div>
+          <div id="liv" class="box" onclick="playLiv()">
+            <img src="./assets/liv.png" />
+            <h3>LIV</h3>
+            <p>
+              Uma jovem guerreira do vilarejo de Handum que foi morta em
+              batalha, sua morte precoce não a permitiu mostrar o seu valor e
+              lhe fez ir para o reino dos mortos, onde foi recebida pessoalmente
+              por um Aesir que lhe por conta de uma aposta resolveu ajuda-la.
+            </p>
+          </div>
+          <div id="sigrid" class="box" onclick="playSigrid()">
+            <img src="assets/sigrid.png" />
+            <h3>SIGRID</h3>
+            <p>
+              Sigrid uma mulher do vilarejo de Handum, conhecida por realizar
+              feitiços e magias. Em uma noite acabou se embedando e foi
+              assasinada indo parar em Helheim, ao morrer sua incrível fama a
+              fez receber uma visita de um famoso Aesir, que pode ajuda-la a
+              voltar a Midgard.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div id="game-flow">
+        <div class="chat">
+          <h2 id="game-flow-title"></h2>
+          <p id="game-flow-paragraph"></p>
+          <a onclick="location.href=this.href+charUrl">
+            <button>Começar o Jogo!</button>
+          </a>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
