@@ -9,5 +9,5 @@ Jogo com HTML,CSS e   Javascript, Realizando interação com o usuário através
 ## *Imagens*
 
 <p align="center">
-    <img width="700px" src=""C:\Users\MOURA-04\Desktop\Pagina inicial - Jogo.png"">
+    <img width="700px" src="https://drive.google.com/file/d/14HVU6EpgWGU9iRCB9YAvTQlZPJZWQpwX/view?usp=sharing">
 </p>
