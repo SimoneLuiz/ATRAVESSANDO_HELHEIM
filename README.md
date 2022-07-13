@@ -8,4 +8,4 @@ Jogo com HTML,CSS e   Javascript, Realizando interação com o usuário através
 * [JAVASCRIPT] - Funcionalidades e enventos. 
 ## *Imagens*
 
-.. image::[ https://url/path/to/image](https://drive.google.com/file/d/14HVU6EpgWGU9iRCB9YAvTQlZPJZWQpwX/view?usp=sharing)
+![Preview](https://drive.google.com/file/d/14HVU6EpgWGU9iRCB9YAvTQlZPJZWQpwX/view?usp=sharing)
