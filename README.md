@@ -18,4 +18,4 @@ das possíveis respostas. Muito cuidado ao escrever errado. você poderá ficar 
 <img src="./assets/PaginaDeEscolhas.png">
 
 # *:handshake: Colaboradores*
-* *Simone Luiz Da Silva** - *Colaboradora* - (https://github.com/SimoneLuiz)*
+* *Simone Luiz Da Silva -Colaboradora-(https://github.com/SimoneLuiz)*
