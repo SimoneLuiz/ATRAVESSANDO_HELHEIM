@@ -7,5 +7,5 @@
 #Imagens
 *Na escolha de personagens você pode escolher um dos três OBS: Cada personagem possui uma história diferente com caminhos diferentes 
 apersar de todos estarem no mesmo local. Cada um possui um deus da mitologia de guarda então ! Muito cuidado para não escolher o deus da 
-trapaça. 
-<img src="./assets/EscolhaDePersonages.png">
+trapaça.* 
+<img src="./assets/PaginaDePersonagens.png">
